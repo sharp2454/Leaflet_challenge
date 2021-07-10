@@ -1,3 +1,4 @@
+console.log("hello")
 //define earthquake url variable
 var earthquakesURL = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson";
 
